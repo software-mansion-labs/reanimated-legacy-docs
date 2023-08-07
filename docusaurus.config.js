@@ -71,7 +71,7 @@ module.exports = {
   title: 'React Native Reanimated',
   tagline: "React Native's Animated library reimplemented",
   url: 'https://software-mansion-labs.github.io',
-  baseUrl: '/react-native-reanimated/',
+  baseUrl: '/reanimated-legacy-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/SWM_Fav_192x192.png',
@@ -79,7 +79,7 @@ module.exports = {
   customFields: {
     shortTitle: 'Reanimated',
   },
-  projectName: 'react-native-reanimated',
+  projectName: 'reanimated-legacy-docs',
   themeConfig: {
     // algolia: {
     //   appId: 'CHLGM6BFRG',
