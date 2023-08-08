@@ -75,11 +75,11 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/SWM_Fav_192x192.png',
-  organizationName: 'software-mansion',
+  organizationName: 'software-mansion-labs',
+  projectName: 'reanimated-legacy-docs',
   customFields: {
     shortTitle: 'Reanimated',
   },
-  projectName: 'reanimated-legacy-docs',
   themeConfig: {
     // algolia: {
     //   appId: 'CHLGM6BFRG',
